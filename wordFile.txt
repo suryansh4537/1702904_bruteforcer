@@ -1,0 +1,8 @@
+pricing
+about
+enterprise
+admin
+info
+.git/config
+.htaccess
+backup.zip
